@@ -30,7 +30,7 @@ sum=sum+s.score;
 
 }
 double avg=sum/count;
-System.out.println("average mrks "+avg);
+System.out.println("average mrks"+avg);
 
     
     sc.close();
